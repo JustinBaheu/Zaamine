@@ -38,6 +38,7 @@ Implemented a chatbot (virtual assistant) which automates the customer service o
 * Possibility for the user to make requests directly through the chatbot, such as:
 	* sending a request directly to the company's customer service department so that it can be processed at a later date
 	* suggesting a new product the company should sell on the website
+	* providing a feedback regarding his chat experience at the end of each conversation
 * Designed 22 conversation scenarios based on the writing of 2247 examples of user intents as NLU training data and 768 chatbot responses in English on the Rasa framework
 * Used Rasa Open Source for the chatbot architecture
 * Used Rasa Action Server to execute "custom actions" allowing the chatbot to validate forms and query a MySQL database
