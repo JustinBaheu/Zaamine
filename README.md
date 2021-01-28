@@ -45,8 +45,8 @@ Implemented a chatbot (virtual assistant) which automates the customer service o
 
 <!-- The article I wrote about this project on [Medium](https://amine-zaamoun.medium.com/): [article title](article url) -->
 
-![](/images/chatbot-screenshot_1.PNG)
-![](/images/chatbot-screenshot_2.PNG)
+![](/images/rasa_chatbot-screenshot_1.PNG)
+![](/images/rasa_chatbot-screenshot_2.PNG)
 
 ## [Project 3: Creation of an e-commerce website](https://deuspi.fr/)
 Implemented an e-commerce website allowing the students of the campus of my school in France to provide themselves with food delivered in 15 minutes maximum by offering them a convenience store called “DEUSPI”
