@@ -3,7 +3,6 @@
 ## I'm a Data Scientist intern, CTO of my firm [deuspi.fr](https://deuspi.fr/), and Student!
 
 - I'm a highly motivated, dynamic, and ambitious 4th-year Engineering Master's student in France at the Ecole CENTRALE de Lille (ITEEM department, co-directed by Skema Business School), I am seeking a work-study contract in Data Science for the academic year 2021/2022.
-- currently finishing my Data Scientist internship at Deutsche Telekom which lasted 8 months from June 2020.
 - I also just finished my 8-month Data Scientist internship at Deutsche Telekom.
 - My LinkedIn: [https://linkedin.com/in/amine-zaamoun][linkedin]
 - The Data Science articles I wrote on Medium, republished on the [Towards Data Science](https://towardsdatascience.com/) platform, a reference in this field: https://amine-zaamoun.medium.com/
