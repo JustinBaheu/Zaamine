@@ -27,8 +27,7 @@ The article I wrote about this project: [Transformation of a simple movie datase
 ![](/images/recommender_system-screenshot_1.PNG)
 ![](/images/recommender_system-screenshot_2.PNG)
 
-## Project 2: e-Commerce Chatbot in Python
-<!-- ## [Project 2: e-Commerce Chatbot in Python]() -->
+## [Project 2: e-Commerce Chatbot in Rasa and Python](https://github.com/Zaamine/eCommerce_Chatbot-Rasa_Python)
 Implemented a Chatbot (Virtual Assistant) which automates the customer service of an e-commerce website.
 
 * Possibility for the user to get from the chatbot:
