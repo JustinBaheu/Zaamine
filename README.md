@@ -41,7 +41,7 @@ Implemented a Chatbot (Virtual Assistant) which automates the customer service o
 * Designed 22 conversation scenarios based on the writing of 2211 examples of user intents as NLU training data and 768 chatbot responses in English on the Rasa framework
 * Used Rasa Open Source for the chatbot architecture
 * Used Rasa Action Server to execute "custom actions" allowing the chatbot to validate forms and query a MySQL database
-* Integrated the chatbot on a local copy of the e-commerce website as a rest API using the Webchat plugin in JavaScript
+* Integrated the chatbot on a local copy of a PHP e-commerce website as a rest API using the Webchat plugin in JavaScript
 
 <!-- The article I wrote about this project on [Medium](https://amine-zaamoun.medium.com/): [article title](article url) -->
 
