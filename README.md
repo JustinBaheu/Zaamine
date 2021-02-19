@@ -1,6 +1,6 @@
 # Hello everyone, I'm Amine Zaamoun
 
-## I'm a Data Scientist intern, CTO of my firm [deuspi.fr](https://deuspi.fr/), and Student!
+## I'm a Data Scientist intern, CTO of my startup company [deuspi.fr](https://deuspi.fr/), and Student!
 
 - I'm a highly motivated, dynamic, and ambitious 4th-year Engineering Master's student in France at the Ecole CENTRALE de Lille (ITEEM department, co-directed by Skema Business School), I am seeking a work-study contract in Data Science for the academic year 2021/2022.
 - I also just finished my 8-month Data Scientist internship at Deutsche Telekom.
