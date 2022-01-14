@@ -2,7 +2,7 @@
 
 ## I'm a Data Scientist at Crédit Agricole, CTO of my startup company [deuspi.fr](https://deuspi.fr/), and Student!
 
-- I'm a highly motivated, dynamic, and ambitious final-year Engineering Master's student in France at the Ecole CENTRALE de Lille (ITEEM department), I am currently a Data Scientist at Crédit Agricole in apprenticeship for the academic year 2021/2022.
+- I'm a highly motivated, dynamic, and ambitious final-year Engineering Master's student in France at Centrale Lille (ITEEM program), I am currently a Data Scientist at Crédit Agricole in apprenticeship for the academic year 2021/2022.
 - My LinkedIn: [https://linkedin.com/in/amine-zaamoun][linkedin]
 - The Data Science articles I wrote on Medium, republished on the [Towards Data Science](https://towardsdatascience.com/) platform, a reference in this field: https://amine-zaamoun.medium.com/
 - The article I wrote on DataScientest.com (in French), giving an overwiew of the top 10 important mathematical notions to get started in Data Science: https://datascientest.com/top-10-des-pre-requis-mathematiques-importants-en-data-science
