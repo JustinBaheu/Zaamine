@@ -12,7 +12,7 @@
 # Projects and publications:
 
 ## [Project 1: Movie recommender System in Python](https://github.com/Zaamine/Movie_Recommender_System-Python)
-Implemented a Movie Recommender System which simulates an online interaction between a viewer and the platform, allowing him to get a recommendation of 10 movies according to his choices.
+Implemented a Movie Recommender System which simulates an online interaction between a viewer and a platform, allowing him to get a recommendation of 10 movies according to his choices.
 
 * Used the small version of the latest movie dataset created and indexed by MovieLens between 1995 and 2018: 100 836 ratings applied on 9742 movies by 610 users
 * Step 1: Calculated the weighted average score between the popularity of a movie (its number of ratings) and the average of its ratings in order to propose to the viewer a choice of the 100 most popular movies of the Cinema
