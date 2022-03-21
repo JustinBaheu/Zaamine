@@ -72,7 +72,7 @@ Website: [centraleia.fr](https://centraleia.fr/)
 
 Data Science Trainings: [centraleia.fr/formation]()
 
-Video of the training on the Python library Numpy: [youtube.com/watch?v=LBIimDl2QHk&ab_channel=CentraleIA](https://www.youtube.com/watch?v=LBIimDl2QHk&ab_channel=CentraleIA)
+Video of the training on the Python library Numpy: [youtube.com/watch?v=LBIimDl2QHk](https://www.youtube.com/watch?v=LBIimDl2QHk&ab_channel=CentraleIA)
 
 Video of the training on the Python library Pandas: [youtube.com/watch?v=kTL-CetEbfA](https://www.youtube.com/watch?v=kTL-CetEbfA&ab_channel=CentraleIA)
 
@@ -80,9 +80,9 @@ Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centr
 
 Team: [centraleia.fr/equipe](https://centraleia.fr/equipe/)
 
-![](/images/affiche_formation_1.PNG)
-![](/images/affiche_formation_2.PNG)
-![](/images/affiche_formation_5.PNG)
+![](/images/affiche_formation_1.png)
+![](/images/affiche_formation_2.jpg)
+![](/images/affiche_formation_5.png)
 
 <br />
 
