@@ -68,21 +68,16 @@ I am currently the Training Manager of the “Centrale AI” association (“Cen
 - Organized face-to-face or online meetings with Data Scientists of key accounts and startup companies, allowing students to extend their knowledge and professional network
 - Organized events in connection with Data Science and prepared with my team a Hackathon gathering students from all schools of the “Groupe Centrale” in order to let them collaborate and challenge themselves
 
-Website: [centraleia.fr](https://centraleia.fr/)
-
-Data Science Trainings: [centraleia.fr/formation]()
-
-Video of the training on the Python library Numpy: [youtube.com/watch?v=LBIimDl2QHk](https://www.youtube.com/watch?v=LBIimDl2QHk&ab_channel=CentraleIA)
-
-Video of the training on the Python library Pandas: [youtube.com/watch?v=kTL-CetEbfA](https://www.youtube.com/watch?v=kTL-CetEbfA&ab_channel=CentraleIA)
-
-Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centraleia.fr/conference](https://centraleia.fr/conference/)
-
+Website: [centraleia.fr](https://centraleia.fr/) \
+Data Science Trainings: [centraleia.fr/formation]() \
+Video of the training on the Python library Numpy: [youtube.com/watch?v=LBIimDl2QHk](https://www.youtube.com/watch?v=LBIimDl2QHk&ab_channel=CentraleIA) \
+Video of the training on the Python library Pandas: [youtube.com/watch?v=kTL-CetEbfA](https://www.youtube.com/watch?v=kTL-CetEbfA&ab_channel=CentraleIA) \
+Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centraleia.fr/conference](https://centraleia.fr/conference/) \
 Team: [centraleia.fr/equipe](https://centraleia.fr/equipe/)
 
-<img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="225px" src="/images/affiche_formation_1.png" />
-<img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="225px" src="/images/affiche_formation_2.jpg" />
-<img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="225px" src="/images/affiche_formation_5.png" />
+<img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="200px" src="/images/affiche_formation_1.png" />
+<img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="200px" src="/images/affiche_formation_2.jpg" />
+<img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="200px" src="/images/affiche_formation_5.png" />
 
 <br />
 
