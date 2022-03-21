@@ -84,6 +84,10 @@ Team: [centraleia.fr/equipe](https://centraleia.fr/equipe/)
 ![](/images/affiche_formation_2.jpg)
 ![](/images/affiche_formation_5.png)
 
+[<img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="200px" src="/images/affiche_formation_1.png" />]
+[<img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="200px" src="/images/affiche_formation_2.jpg" />]
+[<img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="200px" src="/images/affiche_formation_5.png" />]
+
 <br />
 
 # Languages and Tools:
