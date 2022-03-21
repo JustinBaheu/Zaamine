@@ -76,9 +76,9 @@ Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centr
 Team: [centraleia.fr/equipe](https://centraleia.fr/equipe/)
 
 <p float="left">
-	<img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="325px" src="/images/affiche_formation_1.png" />
-	<img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="325px" src="/images/affiche_formation_2.jpg" />
-	<img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="325px" src="/images/affiche_formation_5.png" />
+	<img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="335px" src="/images/affiche_formation_1.png" />
+	<img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="335px" src="/images/affiche_formation_2.jpg" />
+	<img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="335px" src="/images/affiche_formation_5.png" />
 </p>
 
 <br />
