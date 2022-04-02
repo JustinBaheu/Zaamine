@@ -11,8 +11,8 @@
 
 # Projects and publications:
 
-## [Project 1: Movie recommender System in Python](https://github.com/Zaamine/Movie_Recommender_System-Python)
-Implemented a Movie Recommender System which simulates an online interaction between a viewer and a platform, allowing him to get a recommendation of 10 movies according to his choices.
+## [Project 1: Movie Recommender System in Python](https://github.com/Zaamine/Movie_Recommender_System-Python)
+Implemented a Movie Recommender System in Python which simulates an online interaction between a viewer and a platform, allowing him to get a recommendation of 10 movies according to his choices.
 
 * Used the small version of the latest movie dataset created and indexed by MovieLens between 1995 and 2018: 100 836 ratings applied on 9742 movies by 610 users
 * Step 1: Calculated the weighted average score between the popularity of a movie (its number of ratings) and the average of its ratings in order to propose to the viewer a choice of the 100 most popular movies of the Cinema
@@ -28,7 +28,7 @@ The article I wrote about this project: [Transformation of a simple movie datase
 ![](/images/recommender_system-screenshot_2.PNG)
 
 ## [Project 2: e-Commerce Chatbot in Rasa and Python](https://github.com/Zaamine/eCommerce_Chatbot-Rasa_Python)
-Implemented a Chatbot (Virtual Assistant) which automates the customer service of an e-commerce website.
+Implemented a Chatbot (Virtual Assistant) in Python which automates the customer service of an e-commerce website.
 
 * Possibility for the user to get from the chatbot:
 	* answers to questions about the company and its services
