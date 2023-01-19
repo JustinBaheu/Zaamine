@@ -10,7 +10,7 @@
 <br />
 
 # Projects and publications:
-[---------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+[---------------------------------------------------------------------------------------------------------------------------------------------------------------](https://github.com/Zaamine/Movie_Recommender_System-Python)
 ## [Project 1: Movie Recommender System in Python](https://github.com/Zaamine/Movie_Recommender_System-Python)
 Implemented a Movie Recommender System in Python which simulates an online interaction between a viewer and a platform, allowing him to get a recommendation of 10 movies according to his choices.
 
