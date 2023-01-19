@@ -10,7 +10,6 @@
 <br />
 
 # Projects and publications:
-[---------------------------------------------------------------------------------------------------------------------------------------------------------------](https://github.com/Zaamine/Movie_Recommender_System-Python)
 ## [Project 1: Movie Recommender System in Python](https://github.com/Zaamine/Movie_Recommender_System-Python)
 Implemented a Movie Recommender System in Python which simulates an online interaction between a viewer and a platform, allowing him to get a recommendation of 10 movies according to his choices.
 
@@ -27,7 +26,6 @@ The article I wrote about this project: [Transformation of a simple movie datase
 ![](/images/recommender_system-screenshot_1.PNG)
 ![](/images/recommender_system-screenshot_2.PNG)
 
-[---------------------------------------------------------------------------------------------------------------------------------------------------------------------]
 ## [Project 2: e-Commerce Chatbot in Rasa and Python](https://github.com/Zaamine/eCommerce_Chatbot-Rasa_Python)
 Implemented a Chatbot (Virtual Assistant) in Python which automates the customer service of an e-commerce website.
 
@@ -49,7 +47,6 @@ Implemented a Chatbot (Virtual Assistant) in Python which automates the customer
 ![](/images/rasa_chatbot-screenshot_1.PNG)
 ![](/images/rasa_chatbot-screenshot_2.PNG)
 
-[---------------------------------------------------------------------------------------------------------------------------------------------------------------------]
 ## [Project 3: Creation of an e-commerce website](https://github.com/Zaamine#project-3-creation-of-an-e-commerce-website)
 Implemented an e-commerce website allowing the students of the campus of my school in France to provide themselves with food delivered in 15 minutes maximum by offering them a convenience store called “DEUSPI”
 
@@ -63,7 +60,6 @@ Implemented an e-commerce website allowing the students of the campus of my scho
 ![](/images/deuspi_website-screenshot_1.PNG)
 ![](/images/deuspi_website-screenshot_2.PNG)
 
-[---------------------------------------------------------------------------------------------------------------------------------------------------------------------]
 ## [Project 4: Management of the training division of Centrale AI](https://github.com/Zaamine/Centrale_AI)
 I am currently the Training Manager of the “Centrale AI” association (“Centrale IA” in French) constituted in accordance with the French law of 1901 concerning non-profit organizations, allowing students of the Ecole Centrale de Lille to discover the Artificial Intelligence and Data Science's world:
 
