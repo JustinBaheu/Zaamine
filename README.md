@@ -1,8 +1,8 @@
 # Hello everyone, I'm Amine Zaamoun
 
-## I'm a Data Scientist at Crédit Agricole, CTO of my startup company [deuspi.fr](https://deuspi.fr/), and Student!
+## I'm a Data Science & Business Analytics student, ex-Data Scientist at Crédit Agricole, CTO of my startup company [Deuspi](https://github.com/Zaamine#project-3-creation-of-an-e-commerce-website), and President of the [Data Oriented Thinking society](https://www.linkedin.com/company/dot-essec-centrale/mycompany) (DOT)!
 
-- I'm a highly motivated, dynamic, and ambitious final-year Engineering Master's student in France at Centrale Lille (ITEEM program), I am currently a Data Scientist at Crédit Agricole in apprenticeship for the academic year 2021/2022.
+- I'm a highly motivated, dynamic, and ambitious accredited Engineer and postgraduate Data Science & Business Analytics student at CentraleSupélec and ESSEC with 1.5 years of experience as a Data Scientist.
 - My LinkedIn: [https://linkedin.com/in/amine-zaamoun][linkedin]
 - The Data Science articles I wrote on Medium, republished on the [Towards Data Science](https://towardsdatascience.com/)'s platform, a reference in this field: https://amine-zaamoun.medium.com/
 - The article I wrote on DataScientest.com (in French), giving an overwiew of the top 10 important mathematical notions to get started in Data Science: https://datascientest.com/top-10-des-pre-requis-mathematiques-importants-en-data-science
@@ -10,7 +10,7 @@
 <br />
 
 # Projects and publications:
-
+[---------------------------------------------------------------------------------------------------------------------------------------------------------------------]
 ## [Project 1: Movie Recommender System in Python](https://github.com/Zaamine/Movie_Recommender_System-Python)
 Implemented a Movie Recommender System in Python which simulates an online interaction between a viewer and a platform, allowing him to get a recommendation of 10 movies according to his choices.
 
@@ -20,13 +20,14 @@ Implemented a Movie Recommender System in Python which simulates an online inter
 * Step 3: Made a recommendation of 5 "less known" movies using a second Machine Learning algorithm: Alternating Least Squares (ALS) with PySpark
 * Step 3 bis: Alternative for the 5 "less known" movies recommended using a Deep Learning algorithm: Deep Neural Matrix Factorization (DNMF) with Tensorflow and Keras
 * Deployed the final system using the pre-computed results from the precedent models on Flask
-* Used the collaborative filtering method to predict the ratings made on a 5-star scale related to each possible (userId, movieId) couple of the dataset and obtaining an RMSE of 0.87
+* Used the collaborative filtering method to predict the ratings made on a 5-star scale related to each possible (userId, movieId) couple of the dataset and obtaining an RMSE of 0.87 (less than 1 star of error)
 
 The article I wrote about this project: [Transformation of a simple movie dataset into a functional Recommender System](https://towardsdatascience.com/transformation-of-a-simple-movie-dataset-into-a-functional-recommender-system-89c2a5a668c)
 
 ![](/images/recommender_system-screenshot_1.PNG)
 ![](/images/recommender_system-screenshot_2.PNG)
 
+[---------------------------------------------------------------------------------------------------------------------------------------------------------------------]
 ## [Project 2: e-Commerce Chatbot in Rasa and Python](https://github.com/Zaamine/eCommerce_Chatbot-Rasa_Python)
 Implemented a Chatbot (Virtual Assistant) in Python which automates the customer service of an e-commerce website.
 
@@ -48,7 +49,8 @@ Implemented a Chatbot (Virtual Assistant) in Python which automates the customer
 ![](/images/rasa_chatbot-screenshot_1.PNG)
 ![](/images/rasa_chatbot-screenshot_2.PNG)
 
-## [Project 3: Creation of an e-commerce website](https://deuspi.fr/)
+[---------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+## [Project 3: Creation of an e-commerce website](https://github.com/Zaamine#project-3-creation-of-an-e-commerce-website)
 Implemented an e-commerce website allowing the students of the campus of my school in France to provide themselves with food delivered in 15 minutes maximum by offering them a convenience store called “DEUSPI”
 
 * Front-end : HTML, CSS (Bootstrap) and JavaScript (jQuery)
@@ -61,6 +63,7 @@ Implemented an e-commerce website allowing the students of the campus of my scho
 ![](/images/deuspi_website-screenshot_1.PNG)
 ![](/images/deuspi_website-screenshot_2.PNG)
 
+[---------------------------------------------------------------------------------------------------------------------------------------------------------------------]
 ## [Project 4: Management of the training division of Centrale AI](https://github.com/Zaamine/Centrale_AI)
 I am currently the Training Manager of the “Centrale AI” association (“Centrale IA” in French) constituted in accordance with the French law of 1901 concerning non-profit organizations, allowing students of the Ecole Centrale de Lille to discover the Artificial Intelligence and Data Science's world:
 
@@ -68,17 +71,14 @@ I am currently the Training Manager of the “Centrale AI” association (“Cen
 - Organized face-to-face or online meetings with Data Scientists of key accounts and startup companies, allowing students to extend their knowledge and professional network
 - Organized events in connection with Data Science and prepared with my team a Hackathon gathering students from all schools of the “Groupe Centrale” in order to let them collaborate and challenge themselves
 
-Website: [centraleia.fr](https://centraleia.fr/) \
-Data Science Trainings: [centraleia.fr/formation]() \
 Video of the training on the Python library Numpy: [youtube.com/watch?v=LBIimDl2QHk](https://www.youtube.com/watch?v=LBIimDl2QHk&ab_channel=CentraleIA) \
 Video of the training on the Python library Pandas: [youtube.com/watch?v=kTL-CetEbfA](https://www.youtube.com/watch?v=kTL-CetEbfA&ab_channel=CentraleIA) \
-Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centraleia.fr/conference](https://centraleia.fr/conference/) \
-Team: [centraleia.fr/equipe](https://centraleia.fr/equipe/)
+Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centraleia.fr/conference](https://centraleia.fr/conference/)
 
 <p float="left">
-	<img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_1.png" />
-	<img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_2.jpg" />
-	<img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_5.png" />
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/1.Les_bases_1-Numpy/Numpy-librairie_calcul_optimise.ipynb" rel="formation numéro 1 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_1.png" /></a>
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/2.Les_bases_2-Pandas/Pandas_librairie_analyse_donnees.ipynb" rel="formation numéro 2 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_2.jpg" /></a>
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/5.Interpretabilite_et_ML/Interpretabilite_des_modeles_de_ML.ipynb" rel="formation numéro 5 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_5.png" /></a>
 </p>
 
 <br />
