@@ -2,7 +2,7 @@
 
 ### President of the [Data Oriented Thinking society](https://www.linkedin.com/company/dot-essec-centrale/mycompany) (DOT) of ESSEC & CentraleSupélec in the Master of Data Sciences & Business Analytics | Centrale Lille accredited Engineer | Co-founder @[Deuspi](https://github.com/Zaamine#project-3-creation-of-an-e-commerce-website)
 
-- I'm a highly motivated, dynamic, and ambitious accredited Engineer and postgraduate Data Science & Business Analytics student at CentraleSupélec and ESSEC with 1.5 years of experience as a Data Scientist.
+- I'm a highly motivated, dynamic, and ambitious accredited Engineer and postgraduate Data Science & Business Analytics student at CentraleSupélec and ESSEC with 1.5 years of experience as a Data Scientist (Deutsche Telekom and Crédit Agricole Consumer Finance).
 - My LinkedIn: [https://linkedin.com/in/amine-zaamoun][linkedin]
 - The Data Science articles I wrote on Medium, republished on the [Towards Data Science](https://towardsdatascience.com/)'s platform, a reference in this field: https://amine-zaamoun.medium.com/
 - The article I wrote on DataScientest.com (in French), giving an overwiew of the top 10 important mathematical notions to get started in Data Science: https://datascientest.com/top-10-des-pre-requis-mathematiques-importants-en-data-science
