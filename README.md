@@ -61,7 +61,7 @@ Implemented an e-commerce website allowing the students of the campus of my scho
 ![](/images/deuspi_website-screenshot_2.PNG)
 
 ## [Project 4: Management of the training division of Centrale AI](https://github.com/Zaamine/Centrale_AI)
-I am currently the Training Manager of the “Centrale AI” association (“Centrale IA” in French) constituted in accordance with the French law of 1901 concerning non-profit organizations, allowing students of the Ecole Centrale de Lille to discover the Artificial Intelligence and Data Science's world:
+Former Training Manager of the “Centrale AI” association (“Centrale IA” in French) constituted in accordance with the French law of 1901 concerning non-profit organizations, allowing students of the Ecole Centrale de Lille to discover the Artificial Intelligence and Data Science's world:
 
 - Established, supervised and presentated complete trainings in Data Science, using the Python programming language
 - Organized face-to-face or online meetings with Data Scientists of key accounts and startup companies, allowing students to extend their knowledge and professional network
