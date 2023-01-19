@@ -1,6 +1,6 @@
 # Hello everyone, I'm Amine Zaamoun
 
-## I'm a Data Science & Business Analytics student, ex-Data Scientist at Crédit Agricole, CTO of my startup company [Deuspi](https://github.com/Zaamine#project-3-creation-of-an-e-commerce-website), and President of the [Data Oriented Thinking society](https://www.linkedin.com/company/dot-essec-centrale/mycompany) (DOT)!
+### President of the [Data Oriented Thinking society](https://www.linkedin.com/company/dot-essec-centrale/mycompany) (DOT) of ESSEC & CentraleSupélec in the Master of Data Sciences & Business Analytics | Centrale Lille accredited Engineer | Co-founder @[Deuspi](https://github.com/Zaamine#project-3-creation-of-an-e-commerce-website)
 
 - I'm a highly motivated, dynamic, and ambitious accredited Engineer and postgraduate Data Science & Business Analytics student at CentraleSupélec and ESSEC with 1.5 years of experience as a Data Scientist.
 - My LinkedIn: [https://linkedin.com/in/amine-zaamoun][linkedin]
