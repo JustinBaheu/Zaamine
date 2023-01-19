@@ -74,9 +74,9 @@ Video of the training on the Python library Pandas: [youtube.com/watch?v=kTL-Cet
 Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centraleia.fr/conference](https://centraleia.fr/conference/)
 
 <p float="left">
-	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/1.Les_bases_1-Numpy/Numpy-librairie_calcul_optimise.ipynb" rel="formation numéro 1 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_1.png" /></a>
-	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/2.Les_bases_2-Pandas/Pandas_librairie_analyse_donnees.ipynb" rel="formation numéro 2 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_2.jpg" /></a>
-	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/5.Interpretabilite_et_ML/Interpretabilite_des_modeles_de_ML.ipynb" rel="formation numéro 5 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_5.png" /></a>
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/1.Les_bases_1-Numpy/Numpy-librairie_calcul_optimise.ipynb" rel="formation numéro 1 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="499px" src="/images/affiche_formation_1.png" /></a>
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/2.Les_bases_2-Pandas/Pandas_librairie_analyse_donnees.ipynb" rel="formation numéro 2 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="499px" src="/images/affiche_formation_2.jpg" /></a>
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/5.Interpretabilite_et_ML/Interpretabilite_des_modeles_de_ML.ipynb" rel="formation numéro 5 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="499px" src="/images/affiche_formation_5.png" /></a>
 </p>
 
 ## [Project 5: Presidency of the Data Oriented Thinking society (DOT)](https://www.linkedin.com/company/dot-essec-centrale/mycompany)
@@ -92,9 +92,9 @@ Students will learn from diverse sources of information: student-led workshops, 
 - Supervised writing of in-house articles in Data Science and its business applications in different industries
 
 <p float="left">
-	<a href="https://www.linkedin.com/feed/update/urn:li:activity:6997199790107193344" rel="DOT members"><img alt="DOT members image" width="333px" src="/images/DOT_members.jfif" /></a>
-	<a href="https://www.linkedin.com/posts/artefact-global_data-ia-datascience-activity-7019723395445477378-Zo8p" rel="DOT partnership with Artefact"><img alt="DOT partnership with Artefact image" width="333px" src="/images/DOT_partnership_with_Artefact.jfif" /></a>
-	<a href="https://www.linkedin.com/pulse/unlocking-power-data-science-how-gaming-companies-transforming-/?trackingId=eiQMjRfFonZVk9K%2BC1rSAg%3D%3D" rel="DOT gaming in Data Science article"><img alt="DOT gaming in Data Science image" width="333px" src="/images/DOT_gaming_in_data_science_article.png" /></a>
+	<a href="https://www.linkedin.com/feed/update/urn:li:activity:6997199790107193344" rel="DOT members"><img alt="DOT members image" width="499px" src="/images/DOT_members.jfif" /></a>
+	<a href="https://www.linkedin.com/posts/artefact-global_data-ia-datascience-activity-7019723395445477378-Zo8p" rel="DOT partnership with Artefact"><img alt="DOT partnership with Artefact image" width="499px" src="/images/DOT_partnership_with_Artefact.jfif" /></a>
+	<a href="https://www.linkedin.com/pulse/unlocking-power-data-science-how-gaming-companies-transforming-/?trackingId=eiQMjRfFonZVk9K%2BC1rSAg%3D%3D" rel="DOT gaming in Data Science article"><img alt="DOT gaming in Data Science image" width="499px" src="/images/DOT_gaming_in_data_science_article.png" /></a>
 </p>
 
 <br />
