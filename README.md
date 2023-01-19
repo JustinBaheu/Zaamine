@@ -65,7 +65,7 @@ Implemented an e-commerce website allowing the students of the campus of my scho
 ## [Project 4: Management of the training division of Centrale AI](https://github.com/Zaamine/Centrale_AI)
 Former Training Manager of the “Centrale AI” association (“Centrale IA” in French) constituted in accordance with the French law of 1901 concerning non-profit organizations, allowing students of the Ecole Centrale de Lille to discover the Artificial Intelligence and Data Science's world:
 
-- Established, supervised and presentated complete trainings in Data Science, using the Python programming language
+- Established, supervised and presented complete trainings in Data Science, using the Python programming language
 - Organized face-to-face or online meetings with Data Scientists of key accounts and startup companies, allowing students to extend their knowledge and professional network
 - Organized events in connection with Data Science and prepared with my team a Hackathon gathering students from all schools of the “Groupe Centrale” in order to let them collaborate and challenge themselves
 
@@ -77,6 +77,24 @@ Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centr
 	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/1.Les_bases_1-Numpy/Numpy-librairie_calcul_optimise.ipynb" rel="formation numéro 1 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_1.png" /></a>
 	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/2.Les_bases_2-Pandas/Pandas_librairie_analyse_donnees.ipynb" rel="formation numéro 2 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_2.jpg" /></a>
 	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/5.Interpretabilite_et_ML/Interpretabilite_des_modeles_de_ML.ipynb" rel="formation numéro 5 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="333px" src="/images/affiche_formation_5.png" /></a>
+</p>
+
+## [Project 5: Presidency of the [Data Oriented Thinking society](https://www.linkedin.com/company/dot-essec-centrale/mycompany) (DOT)
+The objective of DOT is to democratize Data Science by allowing students from all backgrounds at ESSEC and Centrale-Supélec to gain a thorough understanding of the domain and its different applications. As our world revolves increasingly around data collection, mining, predictions, and interpretations, it is essential for leaders of tomorrow to fully grasp data-oriented thinking. Indeed, outside the context of specific teachings such as the Master in Data Sciences & Business Analytics program in both schools, we have seen that this theme is often viewed as a distant subject and reserved for certain fields of study.
+
+We, therefore, want to democratize the "hard" and "soft" skills that define this discipline to any interested student. This association wants to focus on this mix of know-how in order to apply it to problems that companies, institutions, or non-governmental organizations may encounter.
+Students will learn from diverse sources of information: student-led workshops, masterclasses organized by companies, conferences from institutions, and much more. Through DOT, we wish to provide not only the basics to advanced theoretical knowledge on data science and analytics but also show the numerous practical uses of their realm (business, environmental, societal, health...). We also wish to formulate the forthcoming problematics of a data-driven world (biases, fake news, energy consumption, health crisis impact...).
+
+- Managed a team of 13 other students to achieve DOT's goals
+- Managed to negotiate several partnerships with key players in the world of Data Science: [Artefact](https://www.artefact.com/), [DataScientest](https://datascientest.com/), [Sia Partners](https://www.sia-partners.com/) and [Ekimetrics](https://ekimetrics.com/)
+- Supervised the organization of several events throughout the year (coaching sessions with consultants, hackathons, masterclasses and networking events)
+- Supervised the organization of in-house workshops in Data Science and its business applications in different industries
+- Supervised writing of in-house articles in Data Science and its business applications in different industries
+
+<p float="left">
+	<a href="https://www.linkedin.com/feed/update/urn:li:activity:6997199790107193344" rel="DOT members"><img alt="DOT members image" width="333px" src="/images/DOT_members.jfif" /></a>
+	<a href="https://www.linkedin.com/posts/artefact-global_data-ia-datascience-activity-7019723395445477378-Zo8p" rel="DOT partnership with Artefact"><img alt="DOT partnership with Artefact image" width="333px" src="/images/DOT_partnership_with_Artefact.jfif" /></a>
+	<a href="https://www.linkedin.com/pulse/unlocking-power-data-science-how-gaming-companies-transforming-/?trackingId=eiQMjRfFonZVk9K%2BC1rSAg%3D%3D" rel="DOT gaming in Data Science article"><img alt="DOT gaming in Data Science image" width="333px" src="/images/DOT_gaming_in_data_science_article.png" /></a>
 </p>
 
 <br />
